@@ -30,7 +30,7 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
     'zarinpal' => [
-        'merchantID' => '7b2c6d10-8691-11e9-9041-000c29344814',
+        'merchantID' => 'xxx',
         'zarinGate' => true,
         'sandbox' => true,
     ],
