@@ -14,5 +14,5 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('bank/request', 'PaymentController@testTransactionRequest');
-Route::get('bank/response', 'PaymentController@testTransactionResponse');
+    Route::get('bank/request', 'PaymentController@testTransactionRequest');
+    Route::get('bank/response', 'PaymentController@testTransactionResponse');

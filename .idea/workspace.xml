@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30ff4959-40e3-4514-9ea6-f8d6b490cbdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +123,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../freelancer" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -161,7 +162,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579159087781</updated>
       <workItem from="1579159089092" duration="12579000" />
-      <workItem from="1579182148698" duration="13825000" />
+      <workItem from="1579182148698" duration="14057000" />
+      <workItem from="1579278231235" duration="2021000" />
     </task>
     <servers />
   </component>
@@ -173,7 +175,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
